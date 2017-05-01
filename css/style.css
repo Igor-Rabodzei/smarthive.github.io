@@ -145,6 +145,7 @@ button.main:hover{
     background: #63c6ae;
     font-size: 28px;
     color: #fff;
+    margin: 0px;
 }
 
 .latest-text{
@@ -342,6 +343,12 @@ button.main:hover{
     font-size: 60px;
     margin: 10px 0px 10px 0px;
 }
+
+.no-padding{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
 
 
 
